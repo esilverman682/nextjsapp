@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nexport var Tag = function Tag(props) {\n  return __jsx(\"div\", {\n    className: \"tag\"\n  }, props.tag);\n};","map":null,"metadata":{},"sourceType":"module"}
